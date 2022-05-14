@@ -1,7 +1,7 @@
 ### Hi there! 
 
 
-I am Jim, and here are some ideas to get you started, I
+I am Jim, I
 
 - 🐳 am a software engineer currently working at Bloomberg 
 - 🍵 Coffee addict
