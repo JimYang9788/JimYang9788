@@ -3,7 +3,7 @@
 
 I am Jim, I
 
-- 🐳 am a software engineer currently working at Bloomberg 
+- 🐳 am a software engineer currently working at Citadel (ex-Bloomberg, ex-BMO, ex-Castleton) 
 - 🍵 Coffee addict
 - 🐬 Graduated from University of Waterloo, interested in backend engineering, DevOps, and Blockchain.
 - 🎸 Spent unhealthy amount of time practicing guitar, and my favourite guitarist is John Petrucci, Jason Richardson, and Nick Johnston. I post of some of my cover videos on my youtube channel  [here](https://www.youtube.com/channel/UCNGkDz0ueiUGlVl8zQpimnA).
